@@ -24,3 +24,9 @@ Dengan analisis yang disematkan pada file berekstensi .ipynb yang bernama `data-
 3. Pihak Airbnb bisa memfokuskan untuk menggaet mitra di tengah kota karena kecenderungan pengguna Airbnb yang lebih sering menggunakan jasa mitra Airbnb untuk menginap di dekat berbagai titik-titik pariwisata yang mayoritas terkumpul di pusat kota.
 4. Mitra Airbnb bisa mempertimbangkan untuk menurunkan harga sewa huniannya agar bisa meningkatkan popularitas dan pemasukan.
 5. Dengan menimbang bahwa *listing* dengan popularitas buruk sebenarnya cukup longgar dalam menentukan ketersediaan untuk penyewaan dan jumlah minimal malam untuk penginapan, pihak Airbnb bisa memprioritaskan untuk promosi *listing* dengan kategori ini.
+
+## *File* Penunjang
+
+Beberapa *file* yang menunjang analisis ini bisa diakses di *link* sebagai berikut:
+
+* [Tableau](https://public.tableau.com/app/profile/muhammad.rizal.arvandy/viz/CapstoneProjectModule2AirbnbinBangkok/DashboardOverview?publish=yes)
