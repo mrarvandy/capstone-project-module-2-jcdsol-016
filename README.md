@@ -30,3 +30,5 @@ Dengan analisis yang disematkan pada file berekstensi .ipynb yang bernama `data-
 Beberapa *file* yang menunjang analisis ini bisa diakses di *link* sebagai berikut:
 
 * [Tableau](https://public.tableau.com/app/profile/muhammad.rizal.arvandy/viz/CapstoneProjectModule2AirbnbinBangkok/DashboardOverview?publish=yes)
+* [PPT](https://docs.google.com/presentation/d/1Rw9d4FAyvSGQfjQYKyxbxrYR4TRsvXGh/edit#slide=id.p1)
+* [Video](https://drive.google.com/file/d/1NLiWoaS1zRtXYMByXD1UCrUNLmxd0d-I/view?usp=drive_link)
